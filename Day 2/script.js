@@ -51,3 +51,5 @@
 
 // Q. Circumference of Circle
 
+// let r = Number(prompt("Enter the radius"));
+// console.log(2 * Math.PI * r);
